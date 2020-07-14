@@ -1,0 +1,19 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "A simple discord bot (personal use).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukasBBB/discord-bot.git"
+  },
+  "author": "Kneax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukasBBB/discord-bot/issues"
+  },
+  "homepage": "https://github.com/LukasBBB/discord-bot#readme"
+}
