@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/LukasBBB/discord-bot/issues"
   },
-  "homepage": "https://github.com/LukasBBB/discord-bot#readme"
+  "homepage": "https://github.com/LukasBBB/discord-bot#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "colors": "^1.4.0",
+    "config": "^3.3.1",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "ffmpeg": "0.0.4",
+    "hls-stream": "^1.1.2",
+    "hls.js": "^0.14.1",
+    "opusscript": "0.0.7",
+    "request": "^2.88.2"
+  }
 }

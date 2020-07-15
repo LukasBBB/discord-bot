@@ -1,0 +1,29 @@
+{
+    "command": {
+        "prefix": "!",
+        "commands": [{
+            "tag": "ping",
+            "handler": "PingCommand"
+        },{
+            "tag": "join",
+            "handler": "MusicCommands"
+        },
+        {
+            "tag": "stop",
+            "handler": "MusicCommands"
+        }]
+    },
+    "music_streams": [
+        {
+            "name": "BraveFM",
+            "type": "lautfm",
+            "url": "bravefm"
+        }
+    ],
+    "social_icons": [
+        {
+            "name": "instagram",
+            "icon": ":camera:"
+        }
+    ]
+}
